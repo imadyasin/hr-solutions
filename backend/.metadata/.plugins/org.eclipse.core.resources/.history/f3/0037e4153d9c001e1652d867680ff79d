@@ -1,0 +1,5 @@
+package com.example.hrapplication.repository;
+
+public interface UserRepository {
+
+}
